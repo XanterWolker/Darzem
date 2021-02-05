@@ -18,6 +18,7 @@ namespace pflfxf_2._1
             Console.WriteLine("1"+n+"1");
             Console.ReadLine();
 
+
         }
     }
 }
